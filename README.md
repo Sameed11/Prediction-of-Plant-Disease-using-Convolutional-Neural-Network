@@ -2,7 +2,7 @@
 - This project uses a **Convolutional Neural Network (CNN)** to classify plant leaf diseases from images.
 - The model is trained using **image augmentation techniques** to improve generalization.
 - Optimized with **BatchNormalization, Dropout, and Adam optimizer**.
-- Evaluated using **Confusion Matrix, F1 Score, and Classification Report**.
+- Evaluated using **F1 Score, and Classification Report**.
 
 ### 🔹 Key Features:
 - ✔️ **Image Data Preprocessing** – Includes **resizing, normalization, and augmentation** for better training.
